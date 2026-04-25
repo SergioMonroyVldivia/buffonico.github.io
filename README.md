@@ -11,11 +11,9 @@ Link de iconos desde Boostrap y Font Awesome
 Se agregan proyectos realizados
 
 # Fork
- Se Forkea proyecto de Sebastian Peña Ford y se realizan 2 commit
+ Se Forkea proyecto de Camilo Sanchez y Tatiana Manzur y se realizan 2 commit
 
 # Evidencia
-
 ![alt text](image.png)
 ![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+
